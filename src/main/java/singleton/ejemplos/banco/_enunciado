@@ -1,0 +1,15 @@
+Ejemplo del Banco:
+
+se tien 1 o mas formas de retirar de dinero de un banco (cajero/ sucursal del banco/ banca movil)
+varias personas tratan de sacar dinero al mismo desde diferentes lugares (paralelamente), la clase que maneja el saldo
+deberia ser capaz de soportar este escenario
+
+Saldo ---> 900
+
+1P (hilo1) ---> 100
+
+2P (hilo2) ---> 200
+
+3P (hilo3) ---> 300
+
+* al final mi saldo deberia ser: 300
