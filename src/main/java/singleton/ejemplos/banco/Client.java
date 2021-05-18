@@ -1,7 +1,5 @@
 package singleton.ejemplos.banco;
 
-import singleton.basic.Singleton3;
-
 public class Client {
 
     public static void main (String []argumento){
