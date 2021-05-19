@@ -1,0 +1,17 @@
+se tiene un equipo de futbol que tendra un partido muy importante, donde pone a la venta entradas/boleto para este partido
+
+-------------------
+equipo local
+equipo visitante
+numero de asiento *
+fecha
+lugar
+precio
+categoria (curva/recta/preferencia) *
+Persona (ci, nombre) *
+nit
+factura *
+-----------------
+
+
+se desea crear por lo menos 7 personas que compran el boleto/entrada ---> fisico - virtual
