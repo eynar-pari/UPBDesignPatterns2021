@@ -8,7 +8,7 @@ public class Client {
         CreatorHelados heladoCrema= new CreatorHeladoCrema();
         heladoCrema.create().crear();
 
-        CreatorHelados heladoMixto= new CreatorHeladoMixto();
-        heladoMixto.create().crear();
+        HeladoMixto helado =  new CreatorHeladoMixto().create();
+        helado.setTamano("Gigante");
     }
 }
