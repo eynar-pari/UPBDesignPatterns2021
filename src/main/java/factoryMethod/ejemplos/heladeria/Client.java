@@ -10,5 +10,6 @@ public class Client {
 
         HeladoMixto helado =  new CreatorHeladoMixto().create();
         helado.setTamano("Gigante");
+        helado.crear();
     }
 }
