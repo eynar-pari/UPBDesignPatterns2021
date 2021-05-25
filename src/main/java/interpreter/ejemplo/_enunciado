@@ -1,0 +1,18 @@
+dado que tenemos una operacion artimetica con sumas y restas
+deberiamos interpretarlo para tener el resultado de la
+operacion
+
+ejemplo:
+
+1 + 2 + 3 - 3 + 5
+
+resultado interpretado
+
+8   ---->  int
+
+---------------------
+numeros
+simboloSuma
+simboloResta
+
+
