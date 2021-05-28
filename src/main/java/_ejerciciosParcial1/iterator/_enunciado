@@ -1,0 +1,11 @@
+Una Empresa de software (Google) con grandes aspiraciones de crecimiento compra empresas de
+emprendimiento más pequeñas (mojix/jalasoft/avantica/truextend) y decide unir a
+todos los empleados en una sola lista de tipo
+HashMap ---> (Mapa / Diccionario --> <key,valor>), pero cada empresa adquirida
+maneja de forma diferente la lista de sus empleados (ci,nombre),
+
+La 1ra empresa adquirida utiliza el objeto List ,
+La 2da utiliza arrays [] ,
+La 3ra utiliza el objeto Vector
+y la 4ta utiliza el objeto Stack
+
