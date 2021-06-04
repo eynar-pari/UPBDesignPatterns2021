@@ -1,0 +1,14 @@
+Se tiene un repositorio en Gihub que almacena los cambios de un
+projecto que se desarrolla en Java, los desarrolladores quiere
+versionar los cambios de las historias de usuario cuando estan terminadas
+no de cada commit.
+
+- tener 6 commits donde
+el 2do y el 5to commit son los los referente a las historias terminandas
+
+utilizar el formato de commits de github.
+
+- careTaker ---> Github
+- concreteObject --> codigo
+                       - lineas codigo
+                       - isCompleteStory
