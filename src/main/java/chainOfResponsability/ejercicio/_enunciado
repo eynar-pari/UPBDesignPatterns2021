@@ -1,0 +1,6 @@
+ (Chain of Responsability) Se tiene un servicio de software puesto en producción, cuando el
+cliente realiza una solicitud a la empresa se tiene que si la solicitud es relacionada a infraestructura el
+encargado de resolverlo es el DevOps (pide información sobre el error), si es de tipo Bug o Mejora el
+encargado de evaluarlo en el QA (aísla el error), si la petición es de una nueva funcionalidad el
+encargado es el Developer (estima la nueva funcionalidad), si la petición es relaciona a Costos el
+encargado son los de Finanzas, en cualquier otro caso lo revisa el Support.
