@@ -1,0 +1,6 @@
+(Observer) Se tiene una compañía telefónica que tiene varios clientes,
+ a estos clientes les
+llegan notificaciones de la empresa
+ (precios, promociones, premios, noticias), pero cada uno de los
+cliente puede elegir filtrar algunos tipos de
+notificaciones o no recibir ninguna.
