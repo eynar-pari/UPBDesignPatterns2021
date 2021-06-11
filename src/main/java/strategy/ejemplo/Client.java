@@ -19,7 +19,7 @@ public class Client {
         jugadorList.add(new Jugador("123","Jose7",8,"medio campista"));
         jugadorList.add(new Jugador("123","Jose8",9,"delanteros"));
         jugadorList.add(new Jugador("123","Jose9",10,"delanteros"));
-        jugadorList.add(new Jugador("123","Jose10",11,"delanteros"));
+        jugadorList.add(new Jugador("123","Jose10",11,"DELANTEROS"));
 
         equipoDeFutbol.setJugadorList(jugadorList);
 
