@@ -1,0 +1,16 @@
+se tiene un equipo de futbol donde cuanta con diferentes estrategias cuando
+disputa partidos, cuenta con estrategias para diferentes eventos que se dan a
+lo largo del juego, como ser
+
+TiroLibre
+Ataque
+Defensa
+Contragolpe
+
+estas estrategias son usadas dependiendo si el partido es de local
+o visitante
+
+***************
+IStrategy --> modoJuego
+ConcreteStrategy -->tirolibre/ataque/defensa/contragolpe
+Context -->EquipoFutbol
