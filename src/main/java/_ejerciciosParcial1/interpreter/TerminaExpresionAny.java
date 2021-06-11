@@ -1,6 +1,5 @@
 package _ejerciciosParcial1.interpreter;
 
-import com.sun.java.swing.plaf.windows.WindowsDesktopPaneUI;
 
 public class TerminaExpresionAny extends AbstractExpresion {
 
