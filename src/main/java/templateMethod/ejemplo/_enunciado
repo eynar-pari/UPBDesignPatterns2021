@@ -1,0 +1,11 @@
+Se tiene varias personas que tienen diferentes acciones por su rol en la universidad
+el docente que tiene materias
+el marketing que tiene que realizar promosiones
+el director que debe adminstrar todo el semenstre
+el estudiante que tiene materias aprovadas
+
+
+             Persona
+             - nombre
+
+ docente     marketing   directo   estudiante

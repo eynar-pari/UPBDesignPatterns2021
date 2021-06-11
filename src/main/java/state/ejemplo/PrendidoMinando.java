@@ -1,5 +1,7 @@
 package state.ejemplo;
 
+import strategy.ejemplo.IModoJuego;
+
 public class PrendidoMinando implements IStateComputadora {
     private String actionMining;
 
