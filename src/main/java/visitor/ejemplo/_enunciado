@@ -1,0 +1,12 @@
+Visitor Se tiene una estructura de Animales donde tenemos distintos
+tipos de animales Perro,Gato, Caballo donde tienen un método que define de
+qué están enfermos (enfermedad1,enfermedad2) , se tiene un veterinario que es el
+visitante que receta la cura a cada uno de ellos dependiendo la enfermedad
+(mostrar la fecha y hora actual cuando se da la cura).
+
+IElemento      -------> IAnimal
+Elemento Concreto -----> Perro / Gato  / Caballo
+
+IVistor
+Visitante Concreto E1
+Visitnate Concreto E2
