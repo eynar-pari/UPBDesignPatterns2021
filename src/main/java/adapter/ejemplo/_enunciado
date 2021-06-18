@@ -1,0 +1,19 @@
+Se tiene una empresa A de automoviles donde estos automoviles funcionan
+con gasolina,gasolina especial y diesel, esta empresa tiene diferentes
+acciones para sus automoviles donde al momento de prender se ve el tanque
+de combustible, cuando empieza a estar en marcha este ba rebajando en 5 unidades
+cada 5 segundos y cuando esta cargando combustible el combustible se incrementa
+
+IAutomovil -- Diesel / Gasolina /GEspecial
+
+esta empresa decide comprar otra empresa de automoviles mas pequeña
+esta empresa B , construye automovoles,  motocicletas, cuadratracks
+electricos y estos cuando se prenden revisamos la bateria, cuando esta en marcha
+la bateria se descarga en 2 unidades cada 5 segundos, y cuando esta cargando
+deben estar apagados y la bateria nos muestra su estado, adicionalmente
+nos muestra el tiempo de vida de la bateria
+
+IElectricos -- AutomovilE, MoticicletaE, CuadraTracksE
+
+la empresa grande quiere manejar todos los automoviles como si fueran de
+una misma familia de objetos
