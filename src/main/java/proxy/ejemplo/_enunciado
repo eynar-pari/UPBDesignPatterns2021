@@ -1,0 +1,9 @@
+Se tiene un servidor de archivos (File Server) donde se guardan
+los archivos que contienen informacion de datos como ser: pdf,word,excel
+y cuando llega un archivo con diferente extencion este debe guardarse
+en otro servidor pero se envia un mensaje dando a conocer que
+no es un archivo valido.
+
+ISubject ---> Servidor
+RealSubject ---> FileServer
+Proxy ---> ProxyServer
