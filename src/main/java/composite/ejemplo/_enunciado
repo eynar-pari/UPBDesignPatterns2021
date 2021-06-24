@@ -1,0 +1,23 @@
+se quiere tener un administrador de tareas para metodologias agiles parecido a la
+plataforma "trello", donde todos los objetos que tenemos se basaran en un objeto
+llamado entidad donde esta entidad tiene un titulo , tiempo de estimacion, prioridad, descripcion
+
+cuando manejamos una metodologia agil como SCRUM  tenemos muchos componentes:
+ Feature  ---> composite
+   Epic  ---> composite
+     User Stories ---> composite
+        Tareas   ---> composite
+           subtareas ----> leaf
+           subtareas
+           subtareas
+        Tareas
+           subtareas
+           subtareas
+           subtareas
+     User Stories
+        Tareas
+           subtareas
+   Epic
+        User Stories
+           Tareas
+              subtareas
